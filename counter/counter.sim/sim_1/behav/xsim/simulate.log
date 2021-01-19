@@ -1,0 +1,27 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Note: d loaded where d is 00000000000000000000000001111111
+Time: 50 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: en = 1, up = 1, l = 0 
+Time: 300 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: cnt=132
+Time: 300 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: en = 1, up = 0, l = 0 
+Time: 800 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: cnt=122
+Time: 800 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: d loaded where d is 00000000000000000000000111111111
+Time: 850 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: en = 1, up = 0, l = 0 
+Time: 1100 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: cnt=506
+Time: 1100 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: en = 1, up = 1, l = 0
+Time: 1600 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: cnt=516
+Time: 1600 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: en = 0, up = 0, l = 0
+Time: 1850 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+Note: cnt=516
+Time: 1850 us  Iteration: 0  Process: /tb_A_4_udlecnt/sigGen  File: C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd
+$finish called at time : 5 ms : File "C:/Users/tabid/Desktop/Digital Circuit Design/counter/counter.srcs/sources_1/new/tb_A_4_udlecnt.vhd" Line 83

@@ -1,0 +1,12 @@
+
+{ 
+    crc :  1809329752645174150  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto b32d6a8e3cf24a86855172833d9e42b0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot A_4_udlecnt_behav xil_defaultlib.A_4_udlecnt" , 
+    buildDate : "May 27 2020" , 
+    buildTime : "20:09:33" , 
+    linkCmd : "C:\\Users\\tabid\\.Xilinx\\Vivado\\2020.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/A_4_udlecnt_behav/xsimk.exe\"   \"xsim.dir/A_4_udlecnt_behav/obj/xsim_0.win64.obj\" \"xsim.dir/A_4_udlecnt_behav/obj/xsim_1.win64.obj\" -L\"C:\\Users\\tabid\\.Xilinx\\Vivado\\2020.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

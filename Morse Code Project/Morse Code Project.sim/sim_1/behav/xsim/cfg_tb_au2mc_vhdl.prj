@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../../Downloads/au2mc.vhd" \
+"../../../../../../../Downloads/tb_au2mc/tb_au2mc.vhd" \
+
+# Do not sort compile order
+nosort
